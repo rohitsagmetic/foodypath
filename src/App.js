@@ -11,7 +11,7 @@ class App extends Component {
             locations: [
                 {
                     id: 1,
-                    name: 'A nice place',
+                    name: 'A badder place',
                     distance: 3,
                     rating: 3
                 },
